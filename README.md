@@ -139,11 +139,11 @@ const damir = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dammmup&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://trophy-delta.vercel.app/?username=Dammmup&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dammmup&bg_color=1b2838&color=c7d5e0&line=66c0f4&point=a4d007&area=true&area_color=2a475e&hide_border=true"/>
+  <img width="100%" src="https://activity-graph-zeta.vercel.app/graph?username=Dammmup&bg_color=1b2838&color=c7d5e0&line=66c0f4&point=a4d007&area=true&area_color=2a475e&hide_border=true"/>
 </p>
 
 <!-- Змейка генерируется GitHub Action из .github/workflows/snake.yml -->
